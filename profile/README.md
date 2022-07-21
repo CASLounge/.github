@@ -8,7 +8,7 @@
   <h3 align="center">CASLounge</h3>
 
   <p align="center">
-    A social networking platform for CAS students by CAS students.
+    A social networking platform for NORSU CAS students by NORSU CAS students.
     <br />
     <br />
     <a href="https://www.caslounge.ml">Demo available</a>
