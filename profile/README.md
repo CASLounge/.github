@@ -64,7 +64,7 @@
   <tr/>
   <tr>
     <td>
-      <a href="https://github.com/lozanasc-projects/CSLounge/tree/main/kavis">kavis</a>
+      <a href="https://github.com/CASLounge/kavis">kavis</a>
     </td>
     <td>
       Web
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lozanasc-projects/CSLounge/tree/main/yevis">yevis</a>
+      <a href="https://github.com/CASLounge/yevis">yevis</a>
     </td>
     <td>
       Mobile
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/lozanasc-projects/CSLounge/tree/main/elvis">elvis</a>
+      <a href="https://github.com/CASLounge/elvis">elvis</a>
     </td>
     <td>
       API
