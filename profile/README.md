@@ -40,7 +40,7 @@ within the university to connect, collaborate and, express themselves!
 <!-- ![Product Name Screen Shot](samples/Sample.png)   -->
 
 ## Codebases
-
+Hey there! 👋 Looking to contribute to this project? Pick a codebase below and start hacking!
 <table>
   <tr>
     <th>
