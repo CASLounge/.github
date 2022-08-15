@@ -1,21 +1,17 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/lozanasc-projects/CASLounge">
+  <a href="https://github.com/CASLounge">
     <img src="https://avatars.githubusercontent.com/u/109709209?s=400&u=3523f01091e26a7f90fbcd28a6e217491b042670&v=4" alt="Logo" height="80">
   </a>
 
   <h3 align="center">CASLounge</h3>
 
   <p align="center">
-    A social networking platform for NORSU CAS students by NORSU CAS students.
+    A social networking platform for NORSU students by NORSU students.
     <br />
     <br />
-    <a href="https://www.caslounge.ml">Demo available</a>
-    ·
-    <a href="https://github.com/lozanasc-projects/CASLounge/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/lozanasc-projects/CASLounge/issues">Request Feature</a>
+    <a href="https://www.caslounge.ml">Get started!</a>
   </p>
 </p>
 <br/>
@@ -26,29 +22,21 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
+      <li>
+        <a href="#codebases">Codebases</a>
+        <ul>
+          <li><a href="#built-with">Built With</a></li>
+        </ul>
+      </li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
+This project is intended for open-source collaborative project for Computer Science and Information Technology students at NORSU, a social networking platform that will enable students
+within the university to connect, collaborate and, express themselves!
 <!-- ![Product Name Screen Shot](samples/Sample.png)   -->
 
 ## Codebases
@@ -108,56 +96,6 @@ This system was built with the following technologies:
 
 * [React Native](https://reactnative.dev/)
 * [NativeBase](https://nativebase.io/)
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-Hey there! You might be new, just follow the instructions below and you'll running the project in no time! ✨
-
-### Prerequisites
-
-Let's start with the prerequisites, make sure you have the following installed in your local machine:  
-
-* [nodejs](https://nodejs.org/en/)
-
-  ```sh
-  # To check if its installed
-  node -v
-  ```  
-
-* [npm](https://nodejs.org/en/)
-
-  ```sh
-  npm install npm@latest -g
-  ```  
-
-### Installation  
-
-<br/>
-
-   ```sh
-   # Clone the repo
-   git clone https://github.com/lozanasc-projects/CASLounge.git
-   ```  
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/lozanasc-projects/CASLounge/issues) for a list of proposed features (and known issues).
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 <!-- LICENSE -->
 ## License
