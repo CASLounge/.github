@@ -55,7 +55,7 @@ within the university to connect, collaborate and, express themselves!
       <a href="https://github.com/CASLounge/kavis">kavis</a>
     </td>
     <td>
-      Web
+      Web (Frontend)
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@ within the university to connect, collaborate and, express themselves!
       <a href="https://github.com/CASLounge/elvis">elvis</a>
     </td>
     <td>
-      API
+      Web API (Backend Service)
     </td>
   </tr>
 </table>
