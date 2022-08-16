@@ -11,7 +11,7 @@
     A social networking platform for NORSU students by NORSU students.
     <br />
     <br />
-    <a href="https://www.caslounge.ml">Get started!</a>
+    <a href="https://www.caslounge.ml">Get Started!</a>
   </p>
 </p>
 <br/>
